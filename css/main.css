@@ -1,0 +1,12 @@
+.btnhover{
+    width: 100%;
+    height: 100%;
+    background-color: #28a745;
+}
+.btnhover:hover{
+    width: 100%;
+    height: 100%;
+    border-color: #28a745;
+    background-color: white;
+    color: black;
+}
